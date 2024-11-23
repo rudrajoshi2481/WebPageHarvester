@@ -133,4 +133,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Disclaimer
 
 This tool is for educational purposes only. Always ensure you have permission to scrape websites and comply with their terms of service and robots.txt directives.
-# WebPageHarvester
