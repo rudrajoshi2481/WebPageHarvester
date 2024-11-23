@@ -19,7 +19,7 @@ A robust and polite web scraping tool designed to recursively download all pages
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/WebPageHarvester.git
+git clone https://github.com/rudrajoshi2481/WebPageHarvester
 cd WebPageHarvester
 ```
 
